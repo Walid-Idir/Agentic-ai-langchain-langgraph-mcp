@@ -1,6 +1,5 @@
 """
 Serveur MCP SAV — Outil distant `rag_multimodal` (streamable-http)
-Master 5IADM — EMSI / ENSET Mohammedia
 Auteur : Walid IDIR
 
 Derrière l'outil `rag_multimodal`, un agent RAG recherche des passages textuels

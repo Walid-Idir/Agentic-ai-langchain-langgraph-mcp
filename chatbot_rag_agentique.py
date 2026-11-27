@@ -1,6 +1,5 @@
 """
 Chatbot RAG Agentique avec Mémoire et Outils
-Master 5IADM — EMSI / ENSET Mohammedia
 Auteur : Walid IDIR
 """
 

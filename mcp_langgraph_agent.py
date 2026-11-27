@@ -1,6 +1,5 @@
 """
 C - Partie 3 : Agent LangChain / LangGraph consommant le serveur MCP via streamable-http
-Master 5IADM — EMSI / ENSET Mohammedia
 Auteur : Walid IDIR
 
 Prérequis :

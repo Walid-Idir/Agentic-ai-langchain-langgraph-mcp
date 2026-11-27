@@ -1,6 +1,5 @@
 """
 Système Multi-Agent SAV piloté par un Orchestrateur LangGraph + Client MCP (`streamable-http`)
-Master 5IADM — EMSI / ENSET Mohammedia
 Auteur : Walid IDIR
 
 Architecture :

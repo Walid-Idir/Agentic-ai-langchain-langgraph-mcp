@@ -1,6 +1,5 @@
 """
 C - Partie 3 : Serveur MCP exposant deux tools via le protocole streamable-http
-Master 5IADM — EMSI / ENSET Mohammedia
 Auteur : Walid IDIR
 
 Lancement :

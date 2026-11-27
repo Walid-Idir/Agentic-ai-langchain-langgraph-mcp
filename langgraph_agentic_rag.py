@@ -1,6 +1,5 @@
 """
 B - Partie LangGraph : Chatbot Agentic RAG avec LangGraph
-Master 5IADM — EMSI / ENSET Mohammedia
 Auteur : Walid IDIR
 
 Ce module définit le graphe LangGraph complet (StateGraph) pour un Chatbot Agentic RAG :

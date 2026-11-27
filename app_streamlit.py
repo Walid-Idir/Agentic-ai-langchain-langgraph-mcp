@@ -1,6 +1,5 @@
 """
 Interface Web Streamlit pour le Chatbot Agentic RAG & le Système Multi-Agent SAV (LangGraph + MCP)
-Master 5IADM — EMSI / ENSET Mohammedia
 Auteur : Walid IDIR
 
 Lancement :
